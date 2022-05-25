@@ -1,2 +1,2 @@
 # cc-lab-3
-random shit
+random message
